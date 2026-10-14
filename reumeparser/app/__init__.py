@@ -1,2 +1,0 @@
-"""Resume parser application package."""
-
