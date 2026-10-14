@@ -50,6 +50,3 @@ See `.env.example`. The default is `gemini-3.5-flash-lite`; `GEMINI_MODEL` can b
 ```powershell
 pytest
 ```
-
-See [IMPLEMENTATION.md](IMPLEMENTATION.md) for the implementation walkthrough, design decisions, and production hardening notes.
-
